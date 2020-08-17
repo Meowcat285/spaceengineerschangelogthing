@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<News xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entry title="Hotfixes in update 194.529" date="7/8/2020" version="1194529" public="true" id="13">- Improved stability (Memory management)
+- Failed to save fixes for big worlds
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194529"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.527" date="4/8/2020" version="1194527" public="true" id="12">- Improved stability (Memory management)
+- Fixed unable to start Planet scenarios
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194527"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.523" date="17/7/2020" version="1194523" public="true" id="11">- Improved stability (Memory management)
+- Fixed issues with Yaw and Roll settings on projector
+- Fixed game stutters when changing block values in terminal screen
+- Added protection against loading of tampered with worlds with uncounted PCUs
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194523"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.522" date="09/7/2020" version="194.522" public="true" id="10">- Improved Stability (Memory management)
+- Fixed an issue with world load failing 
+- Fixed multiple crashes in character replication
+- Fixed game freezing up upon crash when crash reporting fails
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194522"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.521" date="25/6/2020" version="194.521" public="true" id="9">- Improved Stability (Memory management)
+- Improved searching and filtering in Workshop Browser
+- Fixed an issue with world load failing
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194521"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.519" date="19/6/2020" version="194.519" public="true" id="8">- Improved Stability (Memory management)
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194519"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.518" date="16/6/2020" version="194.518" public="true" id="7">- Improved Stability (Memory management)
+- Fixed an issue with world save failing
+- Fixed an issue with station despawning
+- Fixed a crash in sensors
+- Fixed a crash in placing blueprints
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194518"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.516" date="10/6/2020" version="194.516" public="true" id="6">- Fixed a crash preventing some worlds from loading
+- Fixed remote control waypoint actions not saving
+- Fixed leftover red debug box appearing in some worlds
+- Fixed various other crashes
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194516"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.515" date="5/6/2020" version="194.515" public="true" id="5">- Fixed a crash in the game interacting with mod.io
+- Stability improvements    
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+<Links version="1194515"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Update 194.514" date="27/5/2020" version="194.514" public="true" id="4">- Fixed a couple of ship toolbar problems, including inability to add actions 
+- Improved OG Xbox render performance in large worlds via shadows and particles reballance
+- Fixed multiple sources of micro-stutters
+- Stability improvements
+
+[https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/ More Info]
+    <Links version="1194514"><Link ref="https://forums.keenswh.com/threads/update-1-194-5-stability-performance.7404053/">Change log</Link></Links></Entry>
+  <Entry title="Update 194.304" date="15/5/2020" version="194.304" public="true" id="3">- Added Xbox Experimental mode
+- Improved graphics quality on Xbox One and S
+- Added planets Triton, Europa, Titan, Alien
+
+[https://forums.keenswh.com/threads/update-194-3-experimental-mode.7403998/ More Info]
+    <Links version="1194304"><Link ref="https://forums.keenswh.com/threads/update-194-3-experimental-mode.7403998/">Change log</Link></Links></Entry>
+  <Entry title="Hotfixes in update 194.111" date="30/4/2020" version="194.111" public="true" id="2">- Fixed falling through the ground
+- Fixed color changing with dpad not working
+- Fixed title resumes correctly after suspension
+- Fixed Xbox Live Gold upsell messaged not being displayed to Silver accounts
+
+[https://forums.keenswh.com/threads/update-1-194-1-xbox-release.7403838/ More Info]
+    <Links version="1194111"><Link ref="https://forums.keenswh.com/threads/update-1-194-1-xbox-release.7403838/">Change log</Link></Links></Entry>
+  <Entry title="Initial Xbox release 1.194.110" date="11/4/2020" version="1194110" public="true" id="1">Enjoy the game! [https://forum.keenswh.com/threads/7403838 More Info]
+
+We are working to resolve a number of critical gameplay issues.
+
+We are also actively investigating:
+- PCU limits
+- Dedicated servers
+    <Links version="1194110"><Link ref="https://forum.keenswh.com/threads/7403838">Change log</Link></Links></Entry>
+</News>
