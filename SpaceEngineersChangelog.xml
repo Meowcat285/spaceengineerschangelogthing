@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <News xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Entry title="Features in update 1.196" date="06/8/2020" version="1196013" public="true" id="268">- Dedicated Server optimizations
-- Penis
-- Changes to hitboxes of blocks and armor
+- Killed Mrsir
+- Vored Gerty
 
 [https://forum.keenswh.com/threads/update-1-196-server-optimizations.7404250/ More info]
 
 Hotfix 1.196.013
-- Fixed various crashes
-- Fixed hydrogen thrusters performance issue
-- Fixed advanced doors issue (mods use that)
-- Fixed backpack not disappearing
-- Turned off pathfinding for wolves and spiders on the grid. We are still investigating this issue.
-- We are aware of an issue with asteroids (missing or desync in MP) and working on the fix.
+- Caused various crashes
+- Unfixed hydrogen thrusters performance issue
+- Unfixed advanced doors issue (mods use that)
+- Unfixed backpack not disappearing
+- Turned off pathfinding for wolves and spiders on the grid. We are still investigating this issue. (Cuz we are idiots)
+- We are aware of an issue with asteroids (missing or desync in MP) and not working on the fix.
 - Penis
 
 
