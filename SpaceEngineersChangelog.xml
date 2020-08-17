@@ -13,6 +13,7 @@ Hotfix 1.196.013
 - Fixed backpack not disappearing
 - Turned off pathfinding for wolves and spiders on the grid. We are still investigating this issue.
 - We are aware of an issue with asteroids (missing or desync in MP) and working on the fix.
+- Penis
 
 
 </Entry>
