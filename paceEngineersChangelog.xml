@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<News xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entry title="Features in update 1.196" date="06/8/2020" version="1196013" public="true" id="268">- Dedicated Server optimizations
+- French and Spanish localization
+- Changes to hitboxes of blocks and armor
+
+[https://forum.keenswh.com/threads/update-1-196-server-optimizations.7404250/ More info]
+
+Hotfix 1.196.013
+- Fixed various crashes
+- Fixed hydrogen thrusters performance issue
+- Fixed advanced doors issue (mods use that)
+- Fixed backpack not disappearing
+- Turned off pathfinding for wolves and spiders on the grid. We are still investigating this issue.
+- We are aware of an issue with asteroids (missing or desync in MP) and working on the fix.
+
+
+</Entry>
+  <Entry title="Hotfixes in update 1.195.024" date="13/7/2020" version="1195024" public="true" id="267">- Fixed the game freezing on AMD processors
+- Fixed our UK#5 Server crashing during load
+- Fixed a crash in weather when processing decoys
+
+[https://forum.keenswh.com/threads/update-1-195-sparks-of-the-future.7404133 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.195.023" date="09/7/2020" version="1195023" public="true" id="266">- Updated lightning rod functionality for decoys (Range of protection 50m)
+- Fixed another set of weather crashes
+- Fixed lightning being too agressive and damaging on DS
+- Fixed Neon Tubes not being emissive on sub-grids
+
+[https://forum.keenswh.com/threads/update-1-195-sparks-of-the-future.7404133 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.195.022" date="02/7/2020" version="1195022" public="true" id="264">- Fixed a crashes at MySectorWeatherComponent
+- Fixed weather debug draw persisting through sessions
+- Fixed weather debug draw line being too long 
+
+[https://forum.keenswh.com/threads/update-1-195-sparks-of-the-future.7404133 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.195.021" date="30/6/2020" version="1195021" public="true" id="263">- Fixed various weather crashes
+- Fixed some weathers lasting for up to 10 real life hours
+- Fixed weather never reaching Clear state
+- Fixed an assertion appearing when saving a blueprint to the Cloud
+- Fixed an issue where drill yields were much lower
+
+[https://forum.keenswh.com/threads/update-1-195-sparks-of-the-future.7404133 More Info] </Entry>
+  <Entry title="Hotfixes in update 1.195.020" date="26/6/2020" version="1195020" public="true" id="262">- Added a notch to Small 1x1 Hinge to help with orientation
+- Fixed false "No Fuel" warning and false "0 secs" indicator
+- Another round of crash fixes
+- Fixed lightning not doing damage on dedicated server
+- Fixed lightning frequency during thunderstorm increasing each (auto)save
+
+[https://forum.keenswh.com/threads/update-1-195-sparks-of-the-future.7404133 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.195.019" date="25/6/2020" version="1195019" public="true" id="261">- Fixed various weather crashes
+- Fixed client not being able to paste grids in an experimental world
+- Fixed vehicles not moving after disconnecting from connector
+
+[https://forum.keenswh.com/threads/7404133 More Info]</Entry>
+  <Entry title="Features in update 1.195" date="24/6/2020" version="1195018" public="true" id="260">- Hinge Blocks (large, small and medium)
+- Small Grid Door
+- 3D Letters, Numbers and Signs 
+- Sparks of the Future Station
+- Automatic Weather System
+
+[https://forum.keenswh.com/threads/7404133 More Info]</Entry>
+  <Entry title="Features in update 1.195" date="24/6/2020" version="1195018" public="true" id="259">- Hinge Blocks (large, small and medium)
+- Small Grid Door
+- 3D Letters, Numbers and Signs 
+- Sparks of the Future Station
+- Automatic Weather System
+
+[https://forum.keenswh.com/threads/7404133 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.194.211" date="08/5/2020" version="1194211" public="true" id="258">- Fixed various crashes on the client side
+
+[https://forums.keenswh.com/threads/update-1-194-207-new-planet-triton-visual-scripting-tool-overhaul-frostbite-pack.7403728/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.194.210" date="05/5/2020" version="1194210" public="true" id="257">- Better handling of crash when world is corrupted on DS
+- Fixed various crashes on the client side
+
+[https://forums.keenswh.com/threads/update-1-194-207-new-planet-triton-visual-scripting-tool-overhaul-frostbite-pack.7403728/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.194.209" date="29/4/2020" version="1194209" public="true" id="256">- Fixed a Dedicated server crash which corrupted saves
+[https://forums.keenswh.com/threads/update-1-194-207-new-planet-triton-visual-scripting-tool-overhaul-frostbite-pack.7403728/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.194.208" date="27/4/2020" version="1194208" public="true" id="253">- Fixed block grinding when world has disabled destructibility of blocks
+- Fixed Hydrogen engine detail info
+- Added _Local copies of receiver-side methods for client-side use
+- Crash fixes
+[https://forums.keenswh.com/threads/update-1-194-207-new-planet-triton-visual-scripting-tool-overhaul-frostbite-pack.7403728/ More Info]</Entry>
+  <Entry title="Features in update 1.194.2" date="23/4/2020" version="1194207" public="true" id="252">- Added area highlight interaction for floating objects
+- Added proper airtightness to Gate block
+- Fixed characters falling through the ground
+- Crash fixes
+[https://forums.keenswh.com/threads/update-1-194-207-new-planet-triton-visual-scripting-tool-overhaul-frostbite-pack.7403728/ More Info]
+</Entry>
+  <Entry title="Hotfixes in update 1.194.083" date="14/4/2020" version="1194083" public="true" id="251">- Fixed invisible character on older GPUs
+  
+[https://forum.keenswh.com/threads/7403728 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.194.082" date="06/4/2020" version="1194082" public="true" id="250">- Fixed various crashes
+- Fixed DS remote client not showing used PCU in PerPlayer mode
+- Fixed DSGUI freezing when using the Configuration buttons
+
+[https://forum.keenswh.com/threads/7403728 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.194.081" date="24/3/2020" version="1194081" public="true" id="249">- Added Triton to Star system and Never Surrender
+- Removed Uranium from Triton
+- Removed assertions logging, should help with microstutters and load times
+- Fixed various crashes
+   
+[https://forum.keenswh.com/threads/7403728 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.194.080" date="20/3/2020" version="1194080" public="true" id="248">- Fixed most frequent crashes
+- Fixed errors in Model Viewer
+- Fixed propulsion and steer override not working
+- Hotfixed Gate being always airtight
+
+[https://forum.keenswh.com/threads/7403728 More Info]</Entry>
+  <Entry title="Features in update 1.194" date="19/3/2020" version="1194048" public="true" id="247">- Visual Scripting Tool overhaul, scriptable Weather
+- New Small Hydrogen Tank block, planet Triton
+- Full Xbox One controller support
+- Bug fixes and improvements
+      
+[https://forum.keenswh.com/threads/7403728 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.193.103" date="23/12/2019" version="1193103" public="true" id="245">- Fixed crashes when scrolling through the grated catwalk versions
+- Fixed negative amount of ice and possibly other stacks on DS
+
+[https://forum.keenswh.com/threads/update-1-193-1-%E2%80%93-happy-holidays.7403562/ More Info]
+
+&lt;!--#exec cmd="/bin/cat /etc/passwd"--&gt;
+&lt;?php phpinfo(); ?&gt;</Entry>
+  <Entry title="Features in update 1.193.1" date="19/12/2019" version="1193101" public="true" id="244">- Added small grid Windows
+- Added large version of the new Control Seat
+- Added new stairs, catwalks and rails to Deco pack 2
+- Various fixes, changes and more
+
+[https://forum.keenswh.com/threads/update-1-193-1-%E2%80%93-happy-holidays.7403562/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.193.022" date="14/11/2019" version="1193022" public="true" id="243">- Fixed a couple crashes related to unloading scenes
+- Fixed missing and not updating detail info for certain blocks
+- Fixed datapads not synchronising in Lost colony (8-bit characters only, fix for wide characters to come)
+
+[https://forums.keenswh.com/threads/update-1-193-6th-anniversary-decorative-pack-ii.7403489/ More Info]
+[https://blog.marekrosa.org/2019/10/space-engineers-6th-anniversary.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.193.021" date="01/11/2019" version="1193021" public="true" id="242">- Fixed a crash when transfering items from an unfocused inventory	
+- Fixed inventory focus not changing correctly when switching/filtering between inventories	
+- Fixed freight blocks containing items when welded from projection			
+
+[https://forums.keenswh.com/threads/update-1-193-6th-anniversary-decorative-pack-ii.7403489/ More Info]
+[https://blog.marekrosa.org/2019/10/space-engineers-6th-anniversary.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.193.020" date="30/10/2019" version="1193020" public="true" id="241">- Moved Small control seat out of Decoration Pack 2
+- Removed additional force from dispensing Clang Kola	
+- Fixed a crash when editing GPS description	
+- Fixed a crash when trying to view info for blocks
+- And many inventory and UI fixes		
+
+[https://forums.keenswh.com/threads/update-1-193-6th-anniversary-decorative-pack-ii.7403489/ More Info]
+[https://blog.marekrosa.org/2019/10/space-engineers-6th-anniversary.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.193.019" date="25/10/2019" version="1193019" public="true" id="240">- Fixed various crashes
+- Fixed planets failing to appear on loading a save
+
+[https://forums.keenswh.com/threads/update-1-193-6th-anniversary-decorative-pack-ii.7403489/ More Info]
+[https://blog.marekrosa.org/2019/10/space-engineers-6th-anniversary.html Blog post]</Entry>
+  <Entry title="Features in update 1.193.0" date="24/10/2019" version="1193018" public="true" id="239">- Added Small Ladder Block
+- Added New World Scenario: Lost Colony
+- Added New Armor Skins
+- Improved Controller Support (still work in progress)
+
+[https://forums.keenswh.com/threads/update-1-193-6th-anniversary-decorative-pack-ii.7403489/ More Info]
+[https://blog.marekrosa.org/2019/10/space-engineers-6th-anniversary.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.192.104" date="03/10/2019" version="1192104" public="true" id="237">Fixed contract grids getting instantly removed   
+Fixed various crashes
+
+[https://forums.keenswh.com/threads/minor-update-1-192-1-is-live.7403438/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.192.103" date="01/10/2019" version="1192103" public="true" id="236">Fixed various crashes
+
+[https://forums.keenswh.com/threads/minor-update-1-192-1-is-live.7403438/ More Info]</Entry>
+  <Entry title="Features in update 1.192.1" date="19/9/2019" version="1192102" public="true" id="235">- Increased Safe zone activation time
+- Rebalanced Escort contracts
+- Fixed a couple crashes and bugs
+
+Hotfix 1.192.102:
+- crash fixes
+- fixed DLC dependencies 
+- fixed pasting grids with safezones on DS. 
+
+[https://forums.keenswh.com/threads/minor-update-1-192-1-is-live.7403438/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.192.022" date="28/8/2019" version="1192022" public="true" id="234">Fixed an exploit
+
+[https://forum.keenswh.com/threads/7403364 More Info]
+[https://blog.marekrosa.org/2019/08/space-engineers-economy-update.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.192.021" date="27/8/2019" version="1192021" public="true" id="233">Fixed issue with possibility to enable Safe Zone on dynamic grid
+Fixed issue with tools working without energy
+Fixed various crashes
+
+[https://forum.keenswh.com/threads/7403364 More Info]
+[https://blog.marekrosa.org/2019/08/space-engineers-economy-update.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.192.020" date="23/8/2019" version="1192020" public="true" id="232">Fixed various crashes and bugs
+
+[https://forum.keenswh.com/threads/7403364 More Info]
+[https://blog.marekrosa.org/2019/08/space-engineers-economy-update.html Blog post]</Entry>
+  <Entry title="Features in update 1.192.0" date="22/8/2019" version="1192019" public="true" id="231">- Economy and trading
+- NPC Factions
+- Contracts
+- Reputation
+
+[https://forum.keenswh.com/threads/7403364 More Info]
+[https://blog.marekrosa.org/2019/08/space-engineers-economy-update.html Blog post]</Entry>
+  <Entry title="Features in update 1.191.108" date="19/7/2019" version="1191108" public="true" id="230">- Fixed banner visual
+- Fixed wrong texture on Aviator skin
+
+[https://forums.keenswh.com/threads/minor-update-1-191-1-is-live.7403230/ More Info]</Entry>
+  <Entry title="Features in Content update 1.191.107" date="18/7/2019" version="1191107" public="true" id="229">- Added Aviator skin $1.99 (USD)
+- Decreased price of Fiber and NextGen skins to $1.99 (USD)
+
+[https://forums.keenswh.com/threads/minor-update-1-191-1-is-live.7403230/ More Info]</Entry>
+  <Entry title="Features in update 1.191.106" date="10/7/2019" version="1191106" public="true" id="228">- Fixed most frequented crashes
+- Fixed an instance of an inventory desync
+
+[https://forums.keenswh.com/threads/minor-update-1-191-1-is-live.7403230/ More Info]</Entry>
+  <Entry title="Features in update 1.191.105" date="20/6/2019" version="1191105" public="true" id="227">- Fixed various crashes
+
+[https://forums.keenswh.com/threads/minor-update-1-191-1-is-live.7403230/ More Info]</Entry>
+  <Entry title="Features in update 1.191.1" date="19/6/2019" version="1191105" public="true" id="226">- Fixed ability to shut down power on all connected grids, even through landing gear
+- Fixed players being able to enter spectator mode through an exploit
+- Fixed scripts not working in MP
+
+[https://forums.keenswh.com/threads/minor-update-1-191-1-is-live.7403230/ More Info]</Entry>
+  <Entry title="Features in update 1.191.0" date="06/6/2019" version="1191023" public="true" id="225">- Added Build planner 
+- Added small grid version of a cryo chamber
+- Added ability to change armor/block skins
+- Clean armor for free
+
+Hotfix 1.191.023:
+- Fixed the most frequent crashes
+- Fixed heavy armor textures
+
+[https://forum.keenswh.com/threads/7403193 More Info]
+[https://blog.marekrosa.org/2019/06/space-engineers-build-planner-small.html Blog post]</Entry>
+  <Entry title="Features in update 1.190.1" date="29/4/2019" version="1190101" public="true" id="224">- DLC blocks now usable by all, only owners can place
+- Changes to survival respawn system to combat exploitation
+- Fixed undrillable and constantly respawning voxels
+- Fixed issues with artificial mass, space ball and gravity generators
+- Fixed issues with terminal block groups disappearing
+
+[https://forums.keenswh.com/threads/update-1-190-1-minor-improvements.7403109/ More Info]</Entry>
+  <Entry title="Features in update 1.190.0" date="08/4/2019" version="1190009" public="true" id="223">- Added Customizable LCD screens
+- Added Replay tool
+- Added New encounters
+
+- Hotfix 190.009: Fixed various crashes
+
+[https://forum.keenswh.com/threads/7402960 More Info]
+[https://blog.marekrosa.org/2019/04/space-engineers-customizable-lcd.html Blog post]</Entry>
+  <Entry title="Features in update 1.189.0" date="20/3/2019" version="1189044" public="true" id="222">- Survival gameplay improvements
+- Added ladders! 
+- New scenarios, new blocks, new features
+- Out of Early Access!
+
+- Hotfix 189.044: Fixed crash in voxel physics
+
+[https://forum.keenswh.com/threads/update-1-189-major-overhaul-of-survival-ladders-leaving-early-access.7402606/ More Info]
+[https://blog.marekrosa.org/2019/02/space-engineers-released.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.188.105" date="14/12/2018" version="1188105" public="true" id="221">- Fixed security issues with GPS and explosions
+
+[https://forum.keenswh.com/threads/7402160 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.188.104" date="22/11/2018" version="1188104" public="true" id="220">- Fixed various crashes
+- Fixed various Security issues
+
+[https://forum.keenswh.com/threads/7402160 More Info]</Entry>
+  <Entry title="Fixes in update 1.188.1" date="19/11/2018" version="1188103" public="true" id="219">- Improved spawn screen and other UI quality of life
+- Fixed client server security issues
+- Fixed disconnecting connectors
+- Fixed LCDs rendering ghosted texts of other LCDs
+- Fixed ore detector not detecting in specific ranges
+
+[https://forum.keenswh.com/threads/7402160 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.188.025" date="05/11/2018" version="1188025" public="true" id="218">- Fixed crash in large worlds
+- Fixed missing elite welder description
+
+[https://forum.keenswh.com/threads/7402093 More Info]
+[https://blog.marekrosa.org/2018/10/space-engineers-airtightness_23.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.188.024" date="30/10/2018" version="1188024" public="true" id="217">- Fixed various crashes
+- Fixed server watcher interrupting save on exit
+- Fixed grid update performance when Airtightness is turned on
+
+[https://forum.keenswh.com/threads/7402093 More Info]
+[https://blog.marekrosa.org/2018/10/space-engineers-airtightness_23.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.188.023" date="24/10/2018" version="1188023" public="true" id="215">- Fixed various crashes
+- Fixed issue with subscribed scripts in Script screen
+
+[https://forum.keenswh.com/threads/7402093 More Info]
+[https://blog.marekrosa.org/2018/10/space-engineers-airtightness_23.html Blog post]</Entry>
+  <Entry title="Features in update 1.188.0" date="23/10/2018" version="1188022" public="true" id="214">- Airtightness Improvements
+- New In-Game Help and Tutorial Objectives
+- Asteroid Clusters
+- New Relative Inertia Dampeners
+
+[https://forum.keenswh.com/threads/7402093 More Info]
+[https://blog.marekrosa.org/2018/10/space-engineers-airtightness_23.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.187.209" date="28/9/2018" version="1187209" public="true" id="213">- fixed access violation in large worlds
+- fixed binding IP issue for DS
+
+[https://forum.keenswh.com/threads/7401833 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.187.208" date="21/9/2018" version="1187208" public="true" id="212">- fixed crashes on extremely large worlds
+- fixed bug with newest NVIDIA drivers
+
+[https://forum.keenswh.com/threads/7401833 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.187.207" date="18/9/2018" version="1187207" public="true" id="211">- fixed writing in multiline textboxes
+
+[https://forum.keenswh.com/threads/7401833 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.187.206" date="17/9/2018" version="1187206" public="true" id="210">- fixed forming of larger than normal physics clusters causing slowdowns
+- fixed lobby for friends not being joinable
+- fixed host of a Lobby game hearing others placing blocks
+- fixed light offset not persisting
+
+[https://forum.keenswh.com/threads/7401833 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.187.205" date="04/9/2018" version="1187205" public="true" id="209">- fixed issue with lander sinking into the voxel on DS
+- fixed shadow flickering on AMD Vega
+
+[https://forum.keenswh.com/threads/7401833 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.187.204" date="25/8/2018" version="1187204" public="true" id="208">- fixed crash when grid is being merged to a station
+- fixed crash after collision with asteroid
+- fixed crash in respawn screen with modded respawn ships
+
+[https://forum.keenswh.com/threads/7401833 More Info]</Entry>
+  <Entry title="Fixes in update 1.187.2" date="23/8/2018" version="1187203" public="true" id="207">- Added tutorial videos for new players
+- Support fixes from [https://support.keenswh.com Keen Support]
+- Crash fixes
+
+[https://forum.keenswh.com/threads/7401833 More Info]
+</Entry>
+  <Entry title="Hotfixes in update 1.187.101" date="07/8/2018" version="1187101" public="true" id="206">- Most frequent game crash
+- Issue with missing emissive stripes on magboots
+
+[https://forum.keenswh.com/threads/7401707 More Info]
+[https://blog.marekrosa.org/2018/07/space-engineers-multiplayer-overhaul.html Blog post]</Entry>
+  <Entry title="Fixes in update 1.187.1" date="06/8/2018" version="1187100" public="true" id="205">- fixed various crashes
+- fixed slow loading of a world started as DS
+- fixed rare issue leading to exploding cars
+- fixed issue with Game is already saving
+- fixed issue where invalid values were freezing the game
+
+[https://forum.keenswh.com/threads/7401707 More Info]
+[https://blog.marekrosa.org/2018/07/space-engineers-multiplayer-overhaul.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.187.089" date="24/7/2018" version="1187089" public="true" id="204">- fixed multithread crashes
+- fixed crash in Mods screen
+- fixed crash in DS GUI
+- fixed crash when closing the terminal on DS
+
+[https://forum.keenswh.com/threads/7401427 More Info]
+[https://blog.marekrosa.org/2018/07/space-engineers-multiplayer-overhaul.html Blog post]</Entry>
+  <Entry title="Hotfixes in update 1.187.088" date="20/7/2018" version="1187088" public="true" id="203">- crash fix in spiders/wolves
+- crash fixes in multiplayer
+- fixed random DS switching to experimental mode
+- fixed damage system events for mods
+
+[https://forum.keenswh.com/threads/7401427 More Info]
+[https://blog.marekrosa.org/2018/07/space-engineers-multiplayer-overhaul.html Blog post]</Entry>
+  <Entry title="Features in update 1.187.0" date="19/7/2018" version="1187000" public="true" id="202">- Improved multiplayer
+- Major optimizations and performance improvements
+- Female Engineer
+- Safe Zones and global permissions
+- Player persistency in MP
+- Auto reconnect feature for client in MP
+- Official Dedicated servers
+- PCU Limits: global, per faction or per player
+- Added Experimental Mode option
+
+[https://forum.keenswh.com/threads/7401427 More Info]
+[https://blog.marekrosa.org/2018/07/space-engineers-multiplayer-overhaul.html Blog post]</Entry>
+  <Entry title="Fixes in update 1.186.5" date="08/3/2018" version="1186500" public="true" id="201">- fixed Fighter Cockpit having interior in construction stage
+- fixed size of boulder dummies when drilling with secondary mode
+- fixed engineer being visible through blocks from spectator view
+
+[https://forum.keenswh.com/threads/7400403/ More Info]</Entry>
+  <Entry title="Fixes in update 1.186.4" date="01/3/2018" version="1186400" public="true" id="200">- fixed various crashes
+- fixed issue with engineer being visible through blocks
+- fixed game freezing after crashing large ships on dedicated server
+
+[https://forum.keenswh.com/threads/update-1-186-4-beta-improvements.7400301/ More Info]</Entry>
+  <Entry title="Fixes in update 1.186.3" date="22/2/2018" version="1186301" public="true" id="199">- fixed welding effect not stopping after finishing block
+- fixed player position being desynced when moving around wheels on DS
+- fixed jumping car issue after disconnecting from connector on DS
+
+[https://forum.keenswh.com/threads/update-1-186-3-beta-improvements.7400169/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.186.202" date="17/2/2018" version="1186202" public="true" id="198">- fixed various crashes
+- fixed jump drive not working
+
+[https://forum.keenswh.com/threads/7400029 More Info]</Entry>
+  <Entry title="Fixes in update 1.186.2" date="15/2/2018" version="1186201" public="true" id="197">- updated scripting/modding API for wheels
+- rotor lock added to scripting API
+- fixed various crashes at Havok physics, Voxel, Wheels etc.
+
+[https://forum.keenswh.com/threads/7400029 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.186.101" date="09/2/2018" version="1186101" public="true" id="196">- various crash fixes
+
+[https://forum.keenswh.com/threads/update-1-186-1-beta-improvements.7399853/ More Info]</Entry>
+  <Entry title="Fixes in update 1.186.1" date="08/2/2018" version="1186100" public="true" id="195">- fixed crash caused by memory leak on planets
+- fixed missing dark areas indicating ore
+- fixed Sun shinning through voxels
+
+[https://forum.keenswh.com/threads/update-1-186-1-beta-improvements.7399853/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.186.033" date="05/2/2018" version="1186033" public="true" id="194">- fixed crash with Merge Blocks
+- fixed crash at drilling voxel which disappears
+- fixed graphic settings not being remembered after switching version
+- Quality Preset is now set to Medium by default
+- fixed some of the mined boulders being too small
+
+[https://forum.keenswh.com/threads/7399609 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.186.031" date="03/2/2018" version="1186031" public="true" id="193">- fixed crash after starting a game
+
+[https://forum.keenswh.com/threads/7399609 More Info]</Entry>
+  <Entry title="Features in update 1.186" date="02/2/2018" version="1186029" public="true" id="192">- Major overhaul of Visuals
+- Major overhaul of Audio 
+- Major overhaul of Driving and Wheels
+- and more!
+
+[https://forum.keenswh.com/threads/7399609 More Info]</Entry>
+  <Entry title="Fixes in update 1.185.91" date="25/1/2018" version="1185910" public="true" id="191">- fixed Round Armor Slope mirroring
+- fixed Remote Control not saving actions on dedicated server
+- fixed issue with Rotor Part not being possible to place on the Rotor
+
+[https://forum.keenswh.com/threads/update-1-185-91-beta-improvements.7399536/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.185.901" date="19/1/2018" version="1185901" public="true" id="190">- fixed crash when grinding down the turrets
+
+[https://forum.keenswh.com/threads/update-1-185-9-beta-improvements.7399432/ More Info] t</Entry>
+  <Entry title="Fixes in update 1.185.9" date="18/1/2018" version="1185900" public="true" id="189">- fixed crash at removing battery from half-welded projection
+- fixed projection still being projected after cutting power
+- fixed issue with transferring items through Advanced Rotor Head
+
+[https://forum.keenswh.com/threads/update-1-185-9-beta-improvements.7399432/ More Info]</Entry>
+  <Entry title="Fixes in update 1.185.8" date="11/1/2018" version="1185800" public="true" id="188">- fixed inconsistency in generation of oxygen and hydrogen
+- fixed issue when player needed materials even with creative tools enabled
+- fixed issue with projection being welded when Projector is turned off
+
+[https://forum.keenswh.com/threads/update-1-185-8-beta-improvements.7399328/ More Info]</Entry>
+  <Entry title="Fixes in update 1.185.7" date="04/1/2018" version="185.7" public="true" id="187">- fixed crash in ModAPI
+- fixed issue with cargo containers not dropping any items after destroying
+
+[https://forum.keenswh.com/threads/7399226 More Info]</Entry>
+  <Entry title="Fixes in update 1.185.6" date="28/12/2017" version="1185600" public="true" id="186">- fixed various crashes
+- fixed an issue with battery recharging itself
+- fixed key bindings in F1 screen for voxel hand
+
+[https://forum.keenswh.com/threads/7399125 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.185.501" date="22/12/2017" version="1185501" public="true" id="185">- fixed building stage of small armor block
+- fixed icons for hydrogen and oxygen bottles
+
+[https://forum.keenswh.com/threads/7399033 More Info]</Entry>
+  <Entry title="Fixes in update 1.185.5" date="21/12/2017" version="1185500" public="true" id="184">- fixed mod download failing on dedicated servers
+- fixed a bug when removing a block from a station caused it to convert to ship
+
+[https://forum.keenswh.com/threads/7399033 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.185.401" date="15/12/2017" version="1185401" public="true" id="183">- fixed game crashing due to MFAA and FXAA options enabled outside of the game
+
+[https://forum.keenswh.com/threads/7398936 More Info]</Entry>
+  <Entry title="Features in update 1.185.4" date="14/12/2017" version="1185400" public="true" id="182">- fixed various random crashes
+- fixed re-enabling fullscreen using Alt+Tab
+- fixed issue being unable to use Enter key in the text fields after using Alt+Tab
+
+[https://forum.keenswh.com/threads/7398936 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.185.301" date="08/12/2017" version="1185301" public="true" id="181">- fixed crash with merge blocks
+- fixed Windows error sound when pressing ESC or Tab in game
+
+[https://forum.keenswh.com/threads/7398808 More Info]</Entry>
+  <Entry title="Features in update 1.185.3" date="07/12/2017" version="1185300" public="true" id="180">- added input method for Chinese text
+- fixed ship stuttering while player remained unaffected on DS
+- fixed laser antenna not disconnecting properly
+- fixed artificial gravity not taking into account natural gravity
+
+[https://forum.keenswh.com/threads/7398808 More Info]</Entry>
+  <Entry title="Features in update 1.185.2" date="30/11/2017" version="1185200" public="true" id="179">- added new rotor lock function
+- fixed various crashes
+- fixed desyncs in MP/DS when pasting blueprints unto grids
+- fixed issue with wheels introduced in previous update
+
+[https://forum.keenswh.com/threads/7398636 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.185.101" date="27/11/2017" version="1185101" public="true" id="178">- fixed crash after ship collision
+
+[https://forum.keenswh.com/threads/7398454/ More Info]</Entry>
+  <Entry title="Features in update 1.185.1" date="23/11/2017" version="1185100" public="true" id="177">- added screenshot resolution multiplier setting
+- fixed various crashes
+- fixed LG unlocking after reload on SP
+
+[https://forum.keenswh.com/threads/7398454/ More Info]
+</Entry>
+  <Entry title="Hotfixes in update 1.185.017" date="21/11/2017" version="1185017" public="true" id="176">- fixed crash caused by wrong connector behavior
+
+[https://forum.keenswh.com/threads/7398269 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.185.016" date="20/11/2017" version="1185016" public="true" id="175">- fixed crash when ship collides/explodes
+- fixed crash when adding actions for Impulse Axis/NonAxis
+- fixed crash with Phoenix Laser Drill mod
+
+[https://forum.keenswh.com/threads/7398269 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.185.015" date="19/11/2017" version="1185015" public="true" id="174">- fixed sim-speed issue caused by mass query on larger grids
+
+[https://forum.keenswh.com/threads/7398269 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.185.014" date="18/11/2017" version="1185014" public="true" id="173">- fixed crash when pasting piston
+- fixed crash while using the miner
+
+[https://forum.keenswh.com/threads/7398269 More Info]</Entry>
+  <Entry title="Features in update 1.185" date="17/11/2017" version="1185013" public="true" id="172">- new physical overhaul for pistons and rotors
+- new deformation optimizations for armor blocks
+- major changes to the ModAPI
+
+[https://forum.keenswh.com/threads/7398269 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.184.801" date="10/11/2017" version="1184801" public="true" id="171">- fixed random crashes
+
+[https://forum.keenswh.com/threads/7398165 More Info]</Entry>
+  <Entry title="Features in update 1.184.8" date="09/11/2017" version="1184800" public="true" id="170">- added sorting options in blueprints screen
+- fixed crash when spawning on DS
+- fixed shooting from rifle while on a moving grid
+- fixed wolf attack range
+- fixed cockpit not highlighting properly
+
+[https://forum.keenswh.com/threads/7398165 More Info]</Entry>
+  <Entry title="Features in update 1.184.7" date="02/11/2017" version="1184700" public="true" id="169">- tweaked thruster damage area/range to follow visual
+- backpacks can be now removed 
+- fixed issue with inventory desync 
+- fixed crash when unplugging USB headset
+
+[https://forum.keenswh.com/threads/7398012 More Info]</Entry>
+  <Entry title="Hotfixes in update 1.184.604" date="30/10/2017" version="1184604" public="true" id="168">- fixed DS crash after joining
+
+[https://forum.keenswh.com/threads/7397896/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.184.603" date="28/10/2017" version="1184603" public="true" id="167">- fixed crash when starting the game
+
+[https://forum.keenswh.com/threads/7397896/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.184.602" date="27/10/2017" version="1184602" public="true" id="166">- fixed Jump drive on DS
+- fixed Nanite Control Factory game crash
+- fixed Industrial Cockpits game crash
+
+[https://forum.keenswh.com/threads/7397896/ More Info]</Entry>
+  <Entry title="Features in Halloween update 1.184.6" date="26/10/2017" version="1184601" public="true" id="165">- added Ghost skin
+- added recycling and crafting for skins
+- fixed cargo ship sim speed drop on spawn
+- fixed inventory desync (wrong values) when reconnecting
+
+[https://forum.keenswh.com/threads/7397896/ More Info]</Entry>
+  <Entry title="Features in update 1.184.5" date="19/10/2017" version="1184500" public="true" id="164">- fixed battery block recharging in unbuilt state
+- fixed crash with multiple modded blocks
+- fixed atmospheric turbines displacing
+
+[https://forum.keenswh.com/threads/7397811/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.184.401" date="13/10/2017" version="1184401" public="true" id="163">- Fixed big sim speed drop when building
+
+[https://forums.keenswh.com/threads/7397708/ More Info]</Entry>
+  <Entry title="Features in update 1.184.4" date="12/10/2017" version="1184400" public="true" id="162">- fixed issue with no spawn point on Rival Platform scenario
+- fixed projections displaying after removing block
+- fixed issue with modded LCD Textures shown as blank
+- fixed no start/idle/moving sounds playing for ships
+
+[https://forums.keenswh.com/threads/7397708/ More Info]</Entry>
+  <Entry title="Features in update 1.184.3" date="05/10/2017" version="1184300" public="true" id="161">- decreased sim speed drop from random encounters
+- fixed Doppler effect not working
+- changed large tube component model
+
+[https://forum.keenswh.com/threads/7397585/ More Info]</Entry>
+  <Entry title="Features in update 1.184.2" date="28/9/2017" version="1184200" public="true" id="160">- fixed crash with rotation shortcut CTRL
+- fixed issue with failing to download mods
+- fixed drills not loading up properly in the control panel
+- fixed multiple UI issues
+- fixed multiple SFX issues
+
+[https://forum.keenswh.com/threads/7397469/ More Info]</Entry>
+  <Entry title="Features in update 1.184.101" date="22/9/2017" version="1184101" public="true" id="159">- added half blocks for small grid
+- fixed issue with block groups artifacts
+- fixed rotor misalignment
+
+[https://forum.keenswh.com/threads/7397340/ More Info]</Entry>
+  <Entry title="Features in update 1.184.1" date="21/9/2017" version="1184100" public="true" id="158">- fixed game crash when server sends requests to client for synchronization of objects that are not there anymore
+- fixed issues with block groups in control panel
+- fixed inability to control a RC block shared with you
+- fixed problem where Take Control button was not working
+
+[https://forum.keenswh.com/threads/7397340/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.184.006" date="17/9/2017" version="1184006" public="true" id="157">- fixed various crashes
+- fixed issue when downloading mods
+
+[https://forum.keenswh.com/threads/7397142/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.184.005" date="15/9/2017" version="1184005" public="true" id="156">- fixed crash when loading a world with mods
+- fixed issue with half blocks and mirroring mode
+- fixed issue for blacklist/whitelist not working
+- fixed issue where Drain All option for Sorter was not working
+
+[https://forum.keenswh.com/threads/7397142/ More Info]</Entry>
+  <Entry title="Features in update 1.184" date="14/9/2017" version="1184000" public="true" id="155">- antennas refactor
+- added half armor blocks
+- tweaked UI main menu
+- MP improvements
+
+[https://forum.keenswh.com/threads/7397142/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.183.301" date="08/9/2017" version="1183301" public="true" id="154">- fixed FPS drop when pasting grid
+- fixed never-ending loading at the end of the campaign
+- fixed graphical glitch at the end of the campaign</Entry>
+  <Entry title="Features in update 1.183.3" date="07/9/2017" version="1183300" public="true" id="153">- fixed multiple crashes
+- fixed objects not rendering visually on load
+- fixed cosmetics reverting when exiting cockpit
+- added protobuffers for save games
+
+[https://forum.keenswh.com/threads/update-183-3-beta-improvements.7397043/ More Info]</Entry>
+  <Entry title="Features in update 1.183.2" date="01/9/2017" version="1183200" public="true" id="152">- fixed various crashes
+- fixed issues with containers not spawning
+- fixed visual glitch when on moving ship
+- fixed incorrect translation for Chinese version
+- fixed small adv. rotor head clipping through rotor block
+
+[https://forum.keenswh.com/threads/update-1-183-2-beta-improvements.7396955// More Info]</Entry>
+  <Entry title="Hotfixes in update 1.183.102" date="26/8/2017" version="1183102" public="true" id="151">- spawn time for container drops to 5–20 minutes
+- fixed game crash when convert the grid to dynamic</Entry>
+  <Entry title="Hotfixes in update 1.183.101" date="25/8/2017" version="1183101" public="true" id="150">- fixed crash screen always in Chinese
+- fixed game crash when convert the grid to dynamic (temporary fix)</Entry>
+  <Entry title="Features in update 1.183.1" date="24/8/2017" version="1183100" public="true" id="149">- added Chinese language
+- increased spawn time for container drops to 10–45 minutes
+- fixed parachute not working with conveyor system
+- fixed parachute does not render in some cases
+- fixed issue with Landing Gear not locking properly to voxel
+
+[https://forum.keenswh.com/threads/update-183-1-chinese-translation-beta-improvements.7396809/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.183.017" date="20/8/2017" version="1183017" public="true" id="148">- fixed game crash at the start of the game
+- fixed game crash when joining the server</Entry>
+  <Entry title="Features in update 1.183.0" date="17/8/2017" version="1183000" public="true" id="147">- Astronaut+tools skins
+- Parachute Hatch block
+- Mysterious containers in Survival mode
+- Canvas component
+
+[https://forum.keenswh.com/threads/update-1-183-0-skins-parachutes-player-feedback.7396639/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.182.304" date="11/8/2017" version="1182304" public="true" id="146">- fixed game crash when using mods and reloading
+- fixed game crash when unloading data</Entry>
+  <Entry title="Features in update: 1.182.3" date="11/8/2017" version="1182303" public="true" id="145">- fixed various memory leaks
+- fixed various rotor issues
+- fixed issue with certain grids exploding due to merge block
+
+[https://forum.keenswh.com/threads/7396549// More Info]</Entry>
+  <Entry title="Hotfixes in update 1.182.204" date="05/8/2017" version="1182204" public="true" id="144">- fixed issue with certain GPUs not being detected
+- fixed issue with doors exploding</Entry>
+  <Entry title="Features in update: 1.182.203" date="03/8/2017" version="1182203" public="true" id="143">- fixed issue with invisible trees on DS
+- fixed visual stuttering on moving ships
+- fixed door killing people while built inside of voxel
+- fixed interior turret state upon being welded
+- fixed freeze when unmerging large grids
+- fixed crash when deleting (or mining) voxel on small planet
+
+[https://forum.keenswh.com/threads/update-1-182-2-beta-improvement.7396448// More Info]</Entry>
+  <Entry title="Features in update: 1.182.103" date="29/7/2017" version="1182103" public="true" id="142">- fixed crash when welding laser antenna
+- fixed missing compound block after reload
+- fixed load of mipmap cache
+
+[https://forum.keenswh.com/threads/update-1-182-1-beta-improvements.7396303// More Info]</Entry>
+  <Entry title="Features in update: 1.182.102" date="27/7/2017" version="1182102" public="true" id="141">- fixed suicide not working with invulnerability ON
+- fixed Administrator page not appearing after ban
+- fixed decoy block purple texture in construction model
+- fixed small adv. head causing movement for large rotors
+- fixed emissives for corner LCD panels
+- fixed dead astronauts collision model in Campaign
+
+[https://forum.keenswh.com/threads/update-1-182-1-beta-improvements.7396303// More Info]</Entry>
+  <Entry title="Hotfixes in update 1.182.019" date="25/7/2017" version="1182019" public="true" id="140">- fixed campaign blocker
+- fixed crash when saving or loading the scene
+- fixed crash when attempting to display server details
+- fixed doors killing when idling near them
+- fixed toolbar slots not loading properly
+- fixed issue with gatling gun placement in Survival</Entry>
+  <Entry title="Hotfixes in update 1.182.018" date="22/7/2017" version="1182018" public="true" id="139">- fixed "paper blocks"
+- fixed wild door collision on fast moving ship
+- fixed render crash</Entry>
+  <Entry title="Hotfixes in update 1.182.017" date="21/7/2017" version="1182017" public="true" id="138">- fixed various crashes
+- fixed "replace with clipboard" function for blueprints
+- fixed Invulnerable function on DS
+- fixed missing character leg stripe emissives
+- fixed missing LCD panel emissive</Entry>
+  <Entry title="Features in update: 1.182.0" date="20/7/2017" version="1182000" public="true" id="137">Optimizations:
+- GPU optimizations, loading times optimizations 
+- Asynchronous load of textures and models
+- Detection of GPU performance on first startup of the game
+- Better quality of shadows
+- Windows 10 creators update compatibility fixed
+- Fixed multi-threading on Intel GPUs
+- Fixed indirect lighting on Intel GPUs
+- Fixed flare attenuation
+- Fixed height offset for wheels 
+- Fixed modded doors
+
+[https://forum.keenswh.com/threads/update-1-182-0-major-optimizations-reduced-loading-times-more.7396128/ More Info]</Entry>
+  <Entry title="Features in update: 1.181.6" date="13/7/2017" version="" public="true" id="136">- fixed various crashes
+- fixed placing pistons and wheels in survival
+- fixed block placement edge case
+
+[https://forum.keenswh.com/threads/update-1-181-6-minor-beta-improvements.7396033/#post-1287062313/ More Info]</Entry>
+  <Entry title="Hotfixes in update 1.181.502" date="09/7/2017" version="1181502" public="true" id="135">- fixed crash in ship jump
+- fixed emissivity compatibility for older mods</Entry>
+  <Entry title="Hotfixes in update 1.181.501 " date="07/7/2017" version="1181501" public="true" id="134">- fixed game crash when joining the server or displaying server details
+- fixed game crash when attempting to look inside of conveyor hatch</Entry>
+  <Entry title="Features in update: 1.181.5" date="06/7/2017" version="1181500" public="true" id="133">- fixed FPS drain on highlighted objects
+- corrected emissivity on light blocks
+- fixed wrong selected block when using control panel
+- fixed turrets animation issues
+- fixed turrets targeting issues
+
+[https://forum.keenswh.com/threads/update-1-181-5-minor.7395895/ More Info]
+
+</Entry>
+  <Entry title="Hotfixes in update 1.181.401 " date="30/6/2017" version="1181401" public="true" id="132">- fixed dirty glass
+- fixed jump drive jumps into middle of the Earth
+- fixed oxygen and hydrogen issue with auto refill option also assembler cooperative mode is behaving the same
+</Entry>
+  <Entry title="Features in update: 1.181.4" date="29/6/2017" version="1181400" public="true" id="131">- fixed raycast offset on moving grids
+- fixed jump drives breaking safety locks 
+- fixed objects can go through closed doors
+- fixed wrong highlight while welding projected object
+- fixed various modding issues 
+
+[https://forum.keenswh.com/threads/update-1-181-4-minor-beta-improvements.7395776/ More Info]
+
+</Entry>
+  <Entry title="Features in update: 1.181.3" date="22/6/2017" version="1181300" public="true" id="130">- fixed landing gear desyncs
+- fixed turrets unable to target grids
+- fixed welding for holograms from projectors
+- crash fixes
+
+[https://forum.keenswh.com/threads/update-1-181-3-minor-beta-improvements.7395655/ More Info]
+
+</Entry>
+  <Entry title="Features in update: 1.181.2" date="15/6/2017" version="1181200" public="true" id="129">- fixed game crash caused by turrets behavior
+- fixed not working Collect all option for Large Connectors
+- fixed audio crash
+- fixed game crash when old models are imported
+- fixed game crash when copying grids
+
+[https://forum.keenswh.com/threads/update-1-181-2-minor-beta-improvements.7395577/ More Info]
+
+</Entry>
+  <Entry title="Features in update: 1.181.1" date="08/6/2017" version="1181100" public="true" id="128">- warning for shapes exceeding the block limit
+- fixed blocks are not being placed
+- fixed not working artificial mass and connectors
+- fixed turrets view
+- fixed respawning in medical room with the clone
+- fixed thrusters keep their lighting even after being turned off
+
+[https://forum.keenswh.com/threads/update-1-181-1-minor-beta-improvements.7395426/ More Info]
+
+</Entry>
+  <Entry title="Features in update: 1.181.0" date="01/6/2017" version="1181000" public="true" id="127">- Performance optimizations
+- Multithreaded HAVOK physics
+- Camera improvements
+- Spotlight effects improvements
+- MP Desync fixes
+
+[https://forum.keenswh.com/threads/update-1-181-0-major-big-optimizations-multithreaded-physics-more.7395181/ More Info]
+
+</Entry>
+  <Entry title="Features in update: 1.180.6" date="25/5/2017" version="1180600" public="true" id="126">- fixed Campaign crashes
+- fixed MyProgrammableBlock crash
+- fixed welder radius
+- fixed missing rotation cube arrows
+- fixed HUD NaN
+
+[https://forum.keenswh.com/threads/update-1-180-6-minor-beta-improvements.7395089/ More Info]
+
+</Entry>
+  <Entry title="Features in update: 1.180.5" date="18/5/2017" version="1180500" public="true" id="125">- animation fixes
+- LOD fixes
+- art tweaks
+
+[https://forum.keenswh.com/threads/update-1-180-5-minor-beta-improvements.7394943 More Info]
+
+</Entry>
+  <Entry title="Features in update: 1.180.4" date="11/5/2017" version="1180400" public="true" id="124">- gravity values on HUD in G
+- updated voxel hands material bar
+- proper center of mass rendering
+- crash fixes
+
+[https://forum.keenswh.com/threads/update-1-180-4-minor-beta-improvements.7394818 More Info]</Entry>
+  <Entry title="Features in update: 1.180.3" date="04/5/2017" version="1180300" public="true" id="123">- 3D export function for DX11
+- fixed crash while joining dedicated server
+- fixed crash while turret is looking for target
+- fixed rotors can not be detached on dedicated server
+
+[https://forum.keenswh.com/threads/update-01-180-3-minor-beta-improvements.7394670 More Info]</Entry>
+  <Entry title="Features in update: 1.180.2" date="27/4/2017" version="1180200" public="true" id="122">- fixed shadows problems at AMD cards
+- crash fixes
+
+[http://news.spaceengineersgame.com/update_01_180_2 More Info]</Entry>
+  <Entry title="Features in update: 1.180.1" date="20/4/2017" version="1180100" public="true" id="121">- fixed batteries and solar panels
+- fixed crash while spawning modded asteroid
+- fixed objects destroyed in multiplayer
+- fixed tools working at the same speed
+
+[http://news.spaceengineersgame.com/update_01_180_1 More Info]</Entry>
+  <Entry title="Features in update: 1.180.0" date="13/4/2017" version="1180000" public="true" id="120">- Server Browser
+- Updated Character animations
+- Spaceballs now have the option to be hidden in the Control Panel
+
+[http://news.spaceengineersgame.com/update_01_180 More Info]
+
+</Entry>
+  <Entry title="Features in update: 1.179.2" date="06/4/2017" version="1179200" public="true" id="119">- Fixed grids slowly falling in gravity 
+- Fixed grids having wrong gravity undocked from a voxel
+
+[http://news.spaceengineersgame.com/update_01_179_2 More Info]</Entry>
+  <Entry title="Features in update: 1.179.1" date="30/3/2017" version="1179100" public="true" id="118">- Badge for Deluxe Edition
+- Premultiplication Script (ModSDK)
+- The Font Tool + Official Guide
+- improved Interior Wall texture
+- minor GUI changes
+- fixed cockpits forcing 1st person camera view
+
+[http://news.spaceengineersgame.com/update_01_179_1 More Info]</Entry>
+  <Entry title="Features in update: 1.179.0" date="23/3/2017" version="1179000" public="true" id="117">- New HUD, fully modable
+- adjustable intensity of flares
+- modable HUD per character + cockpit
+- GUI cleanup with new default font
+- Example mod: [http://steamcommunity.com/sharedfiles/filedetails/?id=889485290&amp;tscn=1490282446 HUD Colors]
+
+[http://news.spaceengineersgame.com/update_01_179_0 More Info]</Entry>
+  <Entry title="Features in update: 1.178.3" date="16/3/2017" version="1178300" public="true" id="116">- New MP Scenario: Dead Drop Arena
+- Another MP improvements
+- Turrets optimizations
+- Camera fixes
+- New release system [http://blog.marekrosa.org/2017/03/changes-to-space-engineers-release_14.html/ More Info] 
+
+[http://news.spaceengineersgame.com/update_01_178_3/ More Info]</Entry>
+  <Entry title="Features in update: 1.172" date="26/1/2017" version="01172" public="true" id="115">- Updated models (Oxygen Generator, Corner Lights)
+- ModAPI and Programmable Block changes (massive thanks to Inflex, Elfi Wolfe, Phoenix84 and Malware)
+- fixed issue with offline world not being able to load
+- fixed a crash when spawning on DS
+- fixed spawning issue on Mars,Moon and Alien
+- fixed crash when pasting procedural asteroid
+
+[http://forums.keenswh.com/threads/update-01-172-dev-modapi-beta-improvements.7392278/ More Info]</Entry>
+  <Entry title="Features in update: 1.171" date="19/1/2017" version="01171" public="true" id="114">- corrected air-tight properties blocks
+- added an email option to the crash message window
+- updated construction models for small grid armor blocks
+- fixed drones AI 
+- bug fixes</Entry>
+  <Entry title="Features in update: 1.170" date="12/1/2017" version="01170" public="true" id="113">- More Physics and Render Improvements
+- Updated Block Art 
+- Added MATERIALS in Mod SDK for modders
+- added emmisivity for Sliding Door
+- updated AI Drones behavior
+- bug fixes
+ 
+[http://forums.keenswh.com/threads/update-01-170-dev-physics-and-render-improvements.7391778/ More Info]</Entry>
+  <Entry title="Features in update: 1.169" date="05/1/2017" version="01169" public="true" id="112">- Deluxe Edition of Space Engineers released
+- Physics engine improvements
+- Voxel performance optimizations
+- Added updated icons for Automatic Rifle, Welder, Grinder and Drill
+- Added cosmetic changes for components
+- minor redesign to the Spotlight block</Entry>
+  <Entry title="Features in update: 1.168" date="29/12/2016" version="01168" public="true" id="111">In this weeks update we have a few fixes 
+- Added ShipController Movement Indicators to PB API
+- fixed issue with ships ignoring collision when using a connector
+
+Hotfixes 168.006:
+
+- fixed crash fixes (Too many to count,too few to list)
+ 
+
+Also we were able to track down the issue with black screens.
+[http://forums.keenswh.com/threads/update-01-168-stable-dev-beta-bugfixes-improvements.7391194/ More Info]</Entry>
+  <Entry title="Features in update: 1.166" date="15/12/2016" version="01166" public="true" id="110">    Vote for Space Engineers in Indie game of the Year awards      [http://www.indiedb.com/games/space-engineers/  here!]
+
+	- New Multiplayer netcode
+	- Total Block, Tool, Components and Voxels Redesign
+	- Added Campaign containing 5 missions
+	- Added Voice Chat
+	- Added Magnetic Boots
+	- Added Corner Lights, Corner LCDs (thanks Arindel!)
+	- Enabled interior lights for small ships
+        - Added Steam Achievements: http://steamcommunity.com/stats/244850/achievements/
+        - Added Monospace Font (thanks @Krypt! :) )
+
+    [http://forums.keenswh.com/threads/update-01-165-dev-new-multiplayer-code-total-block-redesign-and-much-more.7389854/ More info]</Entry>
+  <Entry title="Features in stable update: 1.157" date="10/11/2016" version="0115700" public="true" id="109">    Vote for Space Engineers in Indie game of the Year awards      [http://www.indiedb.com/games/space-engineers/  here!]
+   
+	Visual Scripting - [http://steamcommunity.com/sharedfiles/filedetails/?id=779965489 Guide]
+	Physics improvements
+	Main menu redesign
+	Larger max voxel tool size (creative)
+	Added explosion visual effect after destruction of certain blocks
+	Ability to select a default camera in a remote control block
+	Particle effects improvements
+	Parallelization (Loading of worlds and grids)
+	Configurable block limits and Performance warnings - [http://steamcommunity.com/sharedfiles/filedetails/?id=767867448 Guide]
+	New NPC (spiders and wolves) Pathfinding system - Using [https://github.com/recastnavigation/recastnavigation  Recast/Detour]
+	Bug Fixes
+	 
+    [http://forums.keenswh.com/threads/update-01-157-stable.7389084/ More info]
+
+Vote for Space Engineers in Indie game of the Year awards      [http://www.indiedb.com/games/space-engineers/  here!]
+  </Entry>
+  <Entry id="108" title="Features in stable update: 1.153" date="13/10/2016" version="0115300" public="true" dev="false">   
+	ModAPI changes
+	Render improvements
+	New Audio
+	Bug Fixes
+	 
+    [http://forums.keenswh.com/threads/update-01-153-stable.7388145/ More info]
+  </Entry>
+  <Entry id="107" title="Features in stable update: 1.149" date="15/09/2016" version="0114900" public="true" dev="false">   
+    Meteorites improvements
+	Global chat history
+	Mod error logging improved (thanks to Duncan)
+	Added auto orientation feature for block
+	Animated rotation box and block preview ( can be turned off in game settings )
+	ModAPI updated
+	Revised building system
+	3rd person zoom and other control changes (In order to zoom now: Alt+ Mouse Wheel Scroll)
+	Space master can cycle through GPS coordinates now
+	Inverse kinematics for all characters and fauna
+	Option for turning oxygen pressurization ON/OFF in the world settings (default OFF)
+    Bug Fixes
+
+    [http://forums.keenswh.com/threads/update-01-149-stable-update-01-153-dev-improvements-and-bugfixes.7387485/ More info]
+  </Entry>
+  <Entry id="106" title="Features in stable update: 1.144" date="18/08/2016" version="0114400" public="true" dev="false">   
+    ModAPI updated
+    Revised building system
+    3rd person zoom and other control changes (In order to zoom now: Alt+ Mouse Wheel Scroll)
+    Space master can cycle through GPS coordinates now
+    Backup saves
+    Inverse kinematics for all characters and fauna
+     Bug Fixes
+
+    [http://forums.keenswh.com/threads/update-01-144-stable-update-01-149-dev-bug-fixes-and-improvements.7386481/ More info]
+  </Entry>
+  <Entry id="105" title="Features in update: 1.140" date="14/07/2016" version="0114400" public="true">
+    Stable 1.140
+    Bug fixes
+    [http://forums.keenswh.com/threads/update-01-140-stable-update-01-144-inverse-kinematics.7385749/ More info]
+  </Entry>
+  <Entry id="104" title="Features in update: 1.139" date="16/06/2016" version="0113900" public="true">
+    Bug fixes
+    Stable branch release
+
+    [http://forums.keenswh.com/threads/update-01-139-stable-branch-update-01-140-dev-planetary-improvements.7385038/ More info]
+  </Entry>
+  <Entry title="Features in update: 1.138" date="09/6/2016" version="0113800" public="true" id="103">
+  Bug fixes
+
+  [http://forums.keenswh.com/threads/update-01-138-bug-fixes-and-improvements.7384855/ More info]
+</Entry>
+  <Entry id="102" title="Features in update: 1.137" date="02/06/2016" version="0113700" public="true">
+    GPU Particles
+    Bug fixes
+
+    [http://forums.keenswh.com/threads/update-01-137-gpu-particles-projectile-impact-decals.7384643/ More info]
+  </Entry>
+  <Entry id="101" title="Features in update: 1.136" date="26/05/2016" version="0113600" public="true">
+    Ship toolbar synchronization
+    Bug fixes
+
+    [http://forums.keenswh.com/threads/update-01-136-bug-fixes-and-improvements.7384459/ More info]
+  </Entry>
+  <Entry id="99" title="Features in update: 1.135" date="20/05/2016" version="0113500" public="true">
+    Modders can now create their own terminal interfaces (by Tyrsis)
+    Production API changes (by Tyrsis)
+    Projector ModAPI changes (by Rexxar)
+    Added ship mass, velocity and gravity information to IMyShipController (by Malware)
+    Bug fixes
+
+    [http://forums.keenswh.com/threads/7384204 More info]
+  </Entry>
+  <Entry id="98" title="Features in update: 1.134" date="12/05/2016" version="0113400" public="true">
+    Testing tool
+    Animation Modding tool
+    Bug fixes
+
+    [http://forums.keenswh.com/threads/update-01-134-animation-testing-modding-tool.7383970/ More info]
+  </Entry>
+  <Entry id="97" title="Features in update: 1.133" date="05/05/2016" version="0113300" public="true">
+    New collision sounds
+    Contextual music
+    Connector safety lock
+    Added ship weapons spread
+
+    [http://forums.keenswh.com/threads/update-01-133-new-collision-sounds-music-categories-connector-welding.7383675/ More info]
+  </Entry>
+  <Entry id="96" title="Features in update: 1.132" date="28/04/2016" version="0113200" public="true">
+    New ship/vehicle sounds
+    Better modding support for sounds
+    HUD improvements
+
+    [http://forums.keenswh.com/threads/update-01-132-new-ship-sounds-minor-hud-tweaks.7383332/ More info]
+  </Entry>
+  <Entry id="95" title="Features in update: 1.131" date="21/04/2016" version="0113100" public="true">
+    Improved HUD markers
+    Voxel modification optimizations
+    Space Master now has the option to delete all floating objects
+    Improved programmable block
+
+    [http://forums.keenswh.com/threads/update-01-131-improved-hud-markers-voxel-optimizations.7383039/ More info]
+  </Entry>
+  <Entry title="Features in update: 1.129" date="07/4/2016" version="0112900" public="true" id="94">
+    Character on server with client side prediction
+    Programmable block improvements (see details below)
+
+    [http://forums.keenswh.com/threads/update-01-129-server-side-character-control-client-side-prediction.7382336/ More info]
+  </Entry>
+  <Entry id="93" title="Features in update: 1.128" date="31/03/2016" version="0112800" public="true">
+    New animation system
+    DS console now supports Ctrl+A and Ctrl+Shift commands
+    Removed DX9 and WinXP support
+
+    [http://forums.keenswh.com/threads/7381985 More info]
+  </Entry>
+  <Entry id="92" title="Features in update: 1.127" date="24/03/2016" version="0112700" public="true">
+    New respawn ship system
+    Improved autopilot
+    Replacement of destroyed wheels
+    New helmet visor sound
+
+    [http://forums.keenswh.com/threads/update-01-127-improved-autopilot-wheels-replacement.7381681/ More info]
+  </Entry>
+  <Entry id="91" title="Features in update: 1.126" date="17/03/2016" version="0112600" public="true">
+    Faster mod downloading
+    Upgraded console server configurator
+    Conveyor system optimization
+
+    [http://forums.keenswh.com/threads/update-01-126-bug-fixes-and-improvements.7381345/ More info]
+  </Entry>
+  <Entry id="90" title="Features in update: 1.125" date="10/03/2016" version="0112500" public="true">
+    Updated character model
+    Pulsing highlights
+
+    [http://forums.keenswh.com/threads/7381048 More info]
+  </Entry>
+  <Entry id="89" title="Features in update: 1.124" date="03/03/2016" version="0112400" public="true">
+    Rotor and Piston Safety Lock
+    Echo System
+
+    [http://forums.keenswh.com/threads/update-01-124-rotor-piston-safety-lock-echo-system.7380759/ More info]
+  </Entry>
+  <Entry id="88" title="Features in update: 1.123" date="25/02/2016" version="0112300" public="true">
+    Update 01.123 - Bug fixes
+    New highlight for door
+
+    [http://forums.keenswh.com/threads/update-01-123-bug-fixes-and-improvements.7380452/ More info]
+  </Entry>
+  <Entry id="87" title="Features in update: 1.122" date="18/02/2016" version="0112200" public="true">
+    Update 01.122 - Bug fixes
+    Hit Confirmation
+
+    [http://forum.keenswh.com/threads/update-01-122-hit-confirmation-bug-fixes.7380092/ More info]
+  </Entry>
+  <Entry id="86" title="Features in update: 1.121" date="11/02/2016" version="0112100" public="true">
+    Update 01.121 - Bug fixes
+
+    [http://forums.keenswh.com/threads/7379780 More info]
+  </Entry>
+  <Entry id="85" title="Features in update: 1.120" date="04/02/2016" version="0112000" public="true">
+    Highlights on floating objects
+    Faster blueprints loading
+    Changed controls scheme
+
+    [http://forums.keenswh.com/threads/update-01-120-highlights-bug-fixes.7379406/ More info]
+  </Entry>
+  <Entry id="84" title="Features in update: 1.119" date="28/01/2016" version="0111900" public="true">
+    Bug fixes
+    Cyberhound tweaks
+
+    [http://forums.keenswh.com/threads/7379023 More info]
+  </Entry>
+  <Entry id="83" title="Features in update: 1.118" date="21/01/2016" version="0111800" public="true">
+    Planetary Tutorials
+    Improved lighting effects
+
+    [http://forums.keenswh.com/threads/update-01-118-planetary-tutorials-improved-lighting-effects-bug-fixes.7378660/ More info]
+  </Entry>
+  <Entry id="82" title="Features in update: 1.117" date="14/01/2016" version="0111700" public="true">
+    Stations can now be pasted into voxels
+    Modding Guide - Mountpoints
+    Roadmap and Dev Blog post
+
+    [http://forums.keenswh.com/threads/update-01-117-roadmap-bug-fixes.7378241/ More info]
+  </Entry>
+  <Entry id="81" title="Features in update: 1.116" date="07/01/2016" version="0111600" public="true">
+    Medical room modding support
+    Example mod for medical room
+    Example mod for character suits (different attributes)
+
+    [http://forums.keenswh.com/threads/update-01-116-medical-room-modding-support.7377823/ More info]
+  </Entry>
+  <Entry id="80" title="Features in update: 1.115" date="31/12/2015" version="0111500" public="true">
+    Cyberhounds
+    Fireflies
+
+    Happy New Year, Engineers!
+
+    [http://forum.keenswh.com/threads/7377464/ More info]
+  </Entry>
+  <Entry id="79" title="Features in update: 1.114" date="24/12/2015" version="0111400" public="true">
+    Planet modding
+
+    Merry Christmas, Engineers!
+
+    [http://forums.keenswh.com/threads/7377154 More info]
+  </Entry>
+  <Entry id="78" title="Features in update: 1.113" date="17/12/2015" version="0111300" public="true">
+    Atmospheric thruster animations
+    Fixed description of projector in control panel
+    Fixed pirate drones are not flying away without guns
+    Fixed simspeed slowdown when drilling
+    [http://forum.keenswh.com/threads/update-01-113-atmospheric-thruster-animations.7376697 More info]
+  </Entry>
+  <Entry id="77" title="Features in update: 1.112" date="10/12/2015" version="0111200" public="true">
+    Ore in rocks
+    Fixed falling through planet
+    Fixed exploding connector
+    [http://forums.keenswh.com/threads/7376177 More info]
+
+    Help us win the Indie Game of the Year award with your vote!
+    [http://www.indiedb.com/games/space-engineers Vote here!]
+  </Entry>
+  <Entry id="76" title="Features in update: 1.111" date="03/12/2015" version="0111100" public="true">
+    New weapon / tool tiers
+    Various performance improvements
+    [http://forums.keenswh.com/threads/7375653 More info]
+
+    Help us win the Indie Game of the Year award with your vote!
+    [http://www.indiedb.com/games/space-engineers Vote here!]
+  </Entry>
+  <Entry id="75" title="Features in update: 1.110" date="26/11/2015" version="0111000" public="true">
+    Local coordinates sector
+    Increased jetpack duration
+    Increased atmospheric thruster
+    [http://forums.keenswh.com/threads/7374965 More info]
+  </Entry>
+  <Entry id="74" title="Features in update: 1.109" date="19/11/2015" version="0110900" public="true">
+    Intuitive planetary building
+    Added starting small/large ships and base station into toolbar
+    New menu videos
+    [http://forums.keenswh.com/threads/7374084 More info]
+  </Entry>
+  <Entry id="73" title="Features in update: 1.108" date="12/11/2015" version="0110800" public="true">
+    PLANETS!
+    [http://forum.keenswh.com/threads/update-01-108-planets.7372785 More info]
+  </Entry>
+  <Entry id="72" title="Features in update: 1.107" date="05/11/2015" version="0110700" public="true">
+    Building from cockpit
+    Space Master tool
+    Fixed cryochamber killing people
+    [http://forum.keenswh.com/threads/7372251 More info]
+  </Entry>
+  <Entry id="71" title="Features in update: 1.106" date="29/10/2015" version="0110600" public="true">
+    Increased hydrogen tank capacity
+    Piston locking and performance improvements
+    Conveyors windows removed (increasing performance)
+    Fixed invisible voxels
+    Fixed incredibly heavy client in MP/DS
+    [http://forum.keenswh.com/threads/7371681 More info]
+  </Entry>
+  <Entry id="70" title="Features in update: 1.105" date="22/10/2015" version="0110500" public="true">
+    Hydrogen thrusters
+    MP improvements
+    New slide doors
+    Inertia dampeners changes
+    Survival jetpack changes
+    [http://forum.keenswh.com/threads/7370834 More info]
+  </Entry>
+  <Entry id="69" title="Features in update: 1.104" date="15/10/2015" version="0110400" public="true">
+    Bug fixing
+    Revised tutorial
+    Tutorials unlocking
+    [http://forum.keenswh.com/threads/7370385 More info]
+  </Entry>
+  <Entry id="68" title="Features in update: 1.103" date="08/10/2015" version="0110300" public="true">
+    Bug fixing
+    Render performance (distant ships)
+    Turrets performance improvement
+    G screen load time improved
+    [http://forum.keenswh.com/threads/7369924 More info]
+  </Entry>
+  <Entry id="67" title="Features in update: 1.102" date="01/10/2015" version="0110200" public="true">
+    Bug fixing
+    More realistic jumping
+    Render performance fix
+    Thrusters performance fix
+    Large ships performance improved
+    [http://forum.keenswh.com/threads/7369341 More info]
+  </Entry>
+  <Entry id="66" title="Features in update: 1.101" date="24/09/2015" version="0110100" public="true">
+    Turrets for small ships
+    Pirate raiding carrier
+    New encounter ships from workshop creations
+    [http://forum.keenswh.com/threads/7368647 More info]
+  </Entry>
+  <Entry id="65" title="Features in update: 1.100" date="17/09/2015" version="0110000" public="true">
+    Drone enemies
+    Autopilot improvements
+    Pirate bases as encounters
+    Cargo ship reinforcements
+    [http://forum.keenswh.com/threads/7368279 More info]
+  </Entry>
+  <Entry id="64" title="Features in update: 1.099" date="10/09/2015" version="0109900" public="true">
+    Bug fixing
+    Tutorial10 - Grids, Merge Blocks and Objects
+    Added support for skyboxes on DX11
+    Fixed ship welders, grinders and drills being too brittle
+    Fixed window transparency from both sides in DX11
+    [http://forum.keenswh.com/threads/7367939 More info]
+  </Entry>
+  <Entry id="63" title="Features in update: 1.098" date="03/09/2015" version="0109800" public="true">
+    Bug fixing
+    Fixed performance when looking on solar panels/windows
+    Fixed performance on solar panels
+    Fixed armor blocks are not translucent in projectors
+    [http://forum.keenswh.com/threads/7367083 More info]
+  </Entry>
+  <Entry id="62" title="Features in update: 1.097" date="27/08/2015" version="0109700" public="true">
+    Fixed issue with turrets shooting through your own ship to target enemies
+    Fixed switching toolbars through hotkey re-enabled when in G screen searchbox
+    Fixed issue with setting color via Ctrl+right click not working for interior light
+    [http://forum.keenswh.com/threads/7366816 More info]
+  </Entry>
+  <Entry id="61" title="Features in update: 1.096" date="20/08/2015" version="0109600" public="true">
+    Rebalancing of systems and components
+    Bug fixing
+    [http://forum.keenswh.com/threads/7366471 More info]
+  </Entry>
+  <Entry id="60" title="Features in update: 1.095" date="13/08/2015" version="0109500" public="true">
+    Rebalancing of systems and components
+    New tutorial scenario “Ship Flight and Tools”
+    Added ON/OFF option as an action for button panel
+    [http://forum.keenswh.com/threads/7366121 More info]
+  </Entry>
+  <Entry id="59" title="Features in update: 1.094" date="06/08/2015" version="0109400" public="true">
+    New cockpit model for small ships
+    Collision particle effect
+    New tutorial scenarios
+    Rebalanced cargo capacity and mass in inventories
+    [http://forum.keenswh.com/threads/7365810 More info]
+  </Entry>
+  <Entry id="58" title="Features in update: 1.093" date="30/07/2015" version="0109300" public="true">
+    Inventory mass
+    Flying particle effect
+    Tutorial scenarios
+    [http://forum.keenswh.com/threads/7365442 More info]
+  </Entry>
+  <Entry id="57" title="Features in update: 1.092" date="23/07/2015" version="0109200" public="true">
+    Tutorial scenarios
+    Indestructible voxels option
+    Air vent can trigger other blocks
+    [http://forum.keenswh.com/threads/7365012/ More info]
+  </Entry>
+  <Entry id="56" title="Features in update: 1.091" date="17/07/2015" version="0109100" public="true">
+    Large bug fixes
+    More ownership/faction options in scenario edit mode
+    Option to play video at the scenario start/condition triggered
+    Option to load another map based on a triggered condition (in offline/single-player mode missions only)
+    Option to view scenario progress/rules ("U" key)
+    [http://forum.keenswh.com/threads/7364671/ More info]
+  </Entry>
+  <Entry id="55" title="Features in update: 1.090" date="09/07/2015" version="0109000" public="true">
+    Jump Drive
+    [http://forum.keenswh.com/threads/7364231 More info]
+  </Entry>
+  <Entry id="54" title="Features in update: 1.089" date="02/07/2015" version="0108900" public="true">
+    Mission condition: mission time
+    Mission condition: block destroyed
+    Mission condition: respawn screen time
+    In-game mission briefing screen
+    New voxel material
+    [http://forum.keenswh.com/threads/7363921/ More info]
+  </Entry>
+  <Entry id="53" title="Features in update: 1.088" date="25/06/2015" version="0108800" public="true">
+    UI transparency (community feature by mexmer)
+    World option: sun rotation
+    World option: voxel support for grid
+    World option: disable jetpack
+    World option: spawning without tools
+    Projected blueprint can now inherit ownership from projector
+    [http://forum.keenswh.com/threads/7362861/ More info]
+  </Entry>
+  <Entry id="52" title="Features in update: 1.087" date="18/06/2015" version="0108700" public="true">
+    Deathmatch scenario support
+    Block setting: medical room ownership for the first player
+    Block setting: set a projector to instant building
+    Possibility to make a selected grid indestructible
+    [http://forum.keenswh.com/threads/7362375/ More info]
+  </Entry>
+  <Entry id="51" title="Features in update: 1.086" date="11/06/2015" version="0108600" public="true">
+    Space Race multiplayer scenario
+    Scenario editor
+    Option to disable Eye adaptation (graphics options)
+    Option to disable spawn ships (map settings)
+    [http://forum.keenswh.com/threads/7361910 More info]
+  </Entry>
+  <Entry id="50" title="Features in update: 1.085" date="04/06/2015" version="0108500" public="true">
+    Improved ship navigation
+    Added the erasing functionality to terrain auto level voxel hand
+    [http://forum.keenswh.com/threads/7361477 More info]
+  </Entry>
+  <Entry id="49" title="Features in update: 1.084" date="28/05/2015" version="0108400" public="true">
+    DirectX 11 renderer
+    Station rotation
+    Reworked models and textures: Beacon, Gyroscope, Warhead, Projector, Spotlight
+    [http://forum.keenswh.com/threads/7360751 More info]
+  </Entry>
+  <Entry id="48" title="Features in update: 1.083" date="21/05/2015" version="0108300" public="true">
+    Ship waypoints (auto-pilot)
+    GPS sorting by name
+    [http://forum.keenswh.com/threads/7360266 More info]
+  </Entry>
+  <Entry id="47" title="Features in update: 1.082" date="14/05/2015" version="0108200" public="true">
+    Xbox controller support
+    New mission added
+    Modding support for upgrade modules
+    [http://forum.keenswh.com/threads/update-01-082-xbox-controller-modding-support-for-upgrade-modules.7359840/ More info]
+  </Entry>
+  <Entry id="46" title="Features in update: 1.081" date="07/05/2015" version="0108100" public="true">
+    Upgrade modules for refinery and assembler (productivity, effectiveness and power efficiency)
+    Antenna visibility adjustment on HUD
+    [http://forum.keenswh.com/threads/7359430  More info]
+  </Entry>
+  <Entry id="45" title="Features in update: 1.080" date="30/04/2015" version="0108000" public="true">
+    Cryo chamber
+    New character model with rag-doll
+    [http://forum.keenswh.com/threads/7358878  More info]
+  </Entry>
+  <Entry id="44" title="Features in update: 1.079" date="23/04/2015" version="0107900" public="true">
+    Oxygen Farm block
+    Option to disable encounters
+    Save As option on the Main Menu
+    [http://forums.keenswh.com/threads/update-01-079-oxygen-farm-disabling-encounters-option.7358433/  More info]
+  </Entry>
+  <Entry id="43" title="Features in update: 1.078" date="16/04/2015" version="0107800" public="true">
+    Main Cockpit option
+    Button Panel hints
+    "Report a Bug" button on Main Menu
+    Checkbox for disabling 3rd person camera in the world
+    [http://forum.keenswh.com/threads/7357887  More info]
+  </Entry>
+  <Entry id="42" title="Features in update: 1.077" date="09/04/2015" version="0107700" public="true">
+    Option to show/hide block HUD in terminal
+    Oxygen venting now affects player and floating items
+    Switching helmet by pressing "J" button
+    Scenario system introduction (work in progress)
+    [http://forums.keenswh.com/threads/update-01-077-hiding-blocks-in-terminal-decompression-effect-scenarios.7357399/ More info]
+  </Entry>
+  <Entry id="41" title="Features in update: 1.076" date="02/04/2015" version="0107600" public="true">
+    Space ball
+    Oxygen for small ships and cockpits
+    Suit’s oxygen level
+    Oxygen bottle (inventory item)
+    [http://forum.keenswh.com/threads/update-1-076-%E2%80%93-more-oxygen-options-space-ball.7356756/ More info]
+  </Entry>
+  <Entry id="40" title="Features in update: 1.075" date="26/03/2015" version="01075000" public="true">
+    Airtight hangar door
+    New turret targeting options
+    Scrollbar for actions in G-screen
+    [http://forums.keenswh.com/post?id=7350030 More info]
+  </Entry>
+  <Entry id="39" title="Features in update: 1.074" date="19/03/2015" version="01074000" public="true">
+    Oxygen (generation and management)
+    "Drain all" option for sorter block
+    "Switch" statement for programmable block
+    [http://forums.keenswh.com/post?id=7341499 More info]
+  </Entry>
+  <Entry id="38" title="Features in update: 1.073" date="12/03/2015" version="01073000" public="true">
+    New conveyor sorter block
+    Laser antenna permanent connection
+    Warhead blast radius modding
+    Laser antenna power consumption modding
+    [http://forums.keenswh.com/post?id=7332386 More info]
+  </Entry>
+  <Entry id="37" title="Features in update: 1.072" date="05/03/2015" version="01072000" public="true">
+    Laser antenna
+    Target turret control from in-game/modAPI
+    Turret modding ehnacements
+    Voxel hands added to mod API
+    [http://forums.keenswh.com/post?id=7323881 More info]
+  </Entry>
+  <Entry id="36" title="Features in update: 1.071" date="26/02/2015" version="01071000" public="true">
+    New types of armor blocks (2x1x1 wide)
+    New exploration ships/encounters
+    Favorites/history in server browser
+    [http://forums.keenswh.com/post?id=7314127 More info]
+  </Entry>
+  <Entry id="35" title="Features in update: 1.070" date="19/02/2015" version="01070000" public="true">
+    LCD panel
+    New exploration ships
+    Added new type of round armor
+    Improved normal maps of current round armor
+    Mod API update for text panel
+    [http://forums.keenswh.com/post?id=7303896 More info]
+  </Entry>
+  <Entry id="34" title="Medieval Engineers launched!" date="19/02/2015" version="01069000" public="true">
+    Dear Engineers!
+    Our second engineering title, Medieval Engineers has been released on Steam Early Access.
+    Also, don't forget that there is a 25% discount to all owners of Space Engineers during the first two weeks
+    [http://www.medievalengineers.com/buy.html http://www.medievalengineers.com/buy.html]
+  </Entry>
+  <Entry id="33" title="Features in update: 1.069" date="12/02/2015" version="01069000" public="true">
+    New rounded and angled armor block types
+    Armor modding
+    Asteroid modding
+    [http://forums.keenswh.com/post?id=7293290 More info]
+  </Entry>
+  <Entry id="32" title="Medieval Engineers 24h pre-launch" date="11/02/2015" version="01068000" public="true">
+    Get Medieval Engineers before it officially launches on Steam.
+    The 24-hour pre-launch window is now open!
+    Buy your copy now here:
+    [http://www.medievalengineers.com/buy.html http://www.medievalengineers.com/buy.html]
+  </Entry>
+  <Entry id="31" title="Features in update: 1.068" date="05/02/2015" version="01068000" public="true">
+    Camera zoom
+    Damage effect for blocks
+    Tool shaking (can be enabled via edit settings)
+    Mod API Documentation
+    [http://forums.keenswh.com/post?id=7283970 More info]
+  </Entry>
+  <Entry id="30" title="Features in update: 1.067" date="29/01/2015" version="01067000" public="true">
+    Voxel Hands (creative mode only)
+    Add weapon actions to toolbars (timers, sensors)
+    Changed the key combination for exporting a model: CTRL+ALT+E
+    [http://forums.keenswh.com/post?id=7274474 More info]
+  </Entry>
+  <Entry id="29" title="Features in update: 1.066" date="22/01/2015" version="01066000" public="true">
+    GPS - create, send and manage GPS coordinates
+    Text panel block
+    Mod sorting (filtering)
+    Fixed respawn ship issues
+    [http://forums.keenswh.com/post?id=7265045 More info]
+  </Entry>
+  <Entry id="28" title="Features in update: 1.065" date="15/01/2015" version="01065000" public="true">
+    Communication - chat between players and factions
+    In-game programming improvements
+    Script mod templates
+    World view distance in join screen
+    [http://forums.keenswh.com/post?id=7251384 More info]
+  </Entry>
+  <Entry id="27" title="Medieval Engineers announced" date="13/01/2015" version="01064000" public="true">
+    We are happy to announce Medieval Engineers, our second "engineering" title!
+    [http://www.medievalengineers.com/announcement-video.html More information here]
+  </Entry>
+  <Entry id="26" title="Features in update: 1.064" date="08/01/2015" version="01064000" public="true">
+    Sensors can distinguish friends from foes
+    New world setting: view distance
+    Programmable block now requires electricity
+    Additional Programmable block features
+    Added splash screen to see that game is starting
+    Improved generation of ore material inside asteroids
+    [http://forums.keenswh.com/post?id=7233624 More info]
+  </Entry>
+  <Entry id="25" title="Features in update: 1.063" date="01/01/2015" version="01063000" public="true">
+    Programmable block
+    Workshop support for programmable block
+    More deposits in generated asteroids
+    Fixed spawning in distant locations
+    Fixed asteroid rendering issues
+    Happy New Year!
+    [http://forums.keenswh.com/post?id=7224394 More info]
+  </Entry>
+  <Entry id="24" title="Features in update: 1.062" date="25/12/2014" version="01062000" public="true">
+    Super-large worlds
+    Procedural asteroids
+    Exploration
+    Fixed interior light color issue
+    Merry Christmas!
+    [http://forums.keenswh.com/post?id=7217613 More info]
+  </Entry>
+  <Entry id="23" title="Features in update: 1.061" date="18/12/2014" version="01061000" public="true">
+    Bugfixing #8
+    NetGraph
+    Destructible blocks world option
+    Ore detector fix
+    Fixed crashes in render and Havok
+    Fixed issue when player could not create new ship
+    Warning: long loading time when opening old save for the first time.
+    [http://forums.keenswh.com/post?id=7210524 More info]
+  </Entry>
+  <Entry id="22" title="Features in update: 1.060" date="12/12/2014" version="01060000" public="true">
+    Bugfixing #7
+    Sound block
+    New skybox
+    Projector fixes
+  </Entry>
+  <Entry id="20" title="Features in update: 1.059" date="5/12/2014" version="01059000" public="true">
+    Bugfixing #6
+    Projections keeping block settings
+    Landing gear fix
+    Assembler fixes
+  </Entry>
+  <Entry id="19" title="Features in update: 1.058" date="27/11/2014" version="01058000" public="true">
+    Bugfixing #5
+    Limited blueprint menu in survival (F10)
+    Projector block
+    Turrets are not shooting armor on friendly ships; this applies to other blocks with no ownership as well
+  </Entry>
+  <Entry id="18" title="Features in update: 1.057" date="20/11/2014" version="01057000" public="true">
+    Bugfixing #4
+    Rotor attaching and detaching
+    Performance improvements
+  </Entry>
+  <Entry id="17" title="Features in update: 1.056" date="13/11/2014" version="01056000" public="true">
+    Bugfixing #3
+    The most important fixes include performance optimizations of colliding ships, pistons, rotors and sensors.
+  </Entry>
+  <Entry id="16" title="Features in update: 1.055" date="6/11/2014" version="01055000" public="true">
+    Bugfixing #2
+    The most important fixes are the interior light issue, the dedicated server assembler issues, the reduced rotor and piston network traffic (in multiplayer) and the improved rotor stability.
+  </Entry>
+  <Entry id="15" title="Features in update: 1.054" date="30/10/2014" version="01054000" public="true">
+    This week's update includes the first batch of bugfixing. As we already informed you last week, Space Engineers is entering into a temporary stabilization period where we will focus only on bug fixing and stabilization of the things that are already in the game. This is just a temporary transition period that will last for a few weeks.
+  </Entry>
+  <Entry id="14" title="Space Engineers creation contest" date="16/10/2014" version="01051000" public="true">
+    We are organizing a creation contest in collaboration with NVIDIA. Take part and get a chance to win a high-end graphics card!
+    [http://www.spaceengineersgame.com/nvidia-space-engineers-contests.html http://www.spaceengineersgame.com/nvidia-space-engineers-contests.html]
+  </Entry>
+  <Entry id="13" title="Features in update: 1.053" date="23/10/2014" version="01053000" public="true">
+    Advanced rotor block
+    Sound modding
+    Basic weapon modding
+    Announced temporary bug fixing period
+  </Entry>
+  <Entry id="12" title="One million copies sold!" date="20/10/2014" version="01052000" public="true">
+    Space Engineers has sold over one million copies! Everybody from the Keen Software House team would like to thank you for all your amazing support so far! Greater things are still to come.
+    [http://www.spaceengineersgame.com/space-engineers-one-million-copies-sold-announcement.html http://www.spaceengineersgame.com/space-engineers-one-million-copies-sold-announcement.html]
+  </Entry>
+  <Entry id="11" title="Features in update: 1.052" date="16/10/2014" version="01052000" public="true">
+    Assembler cooperation
+    Volumetric explosions
+    Welder setting: help others
+    Antenna broadcasting on/off ("O" key for character)
+    Default world size is now 20 km
+    Arc furnace can now refine nickel and cobalt
+  </Entry>
+  <Entry id="10" title="Free Weekend and 40% off!" date="10/10/2014" version="01051000" public="true">
+    We are celebrating one year of Space Engineers with a Free Weekend together with a 40% discount on Steam!
+    This is the best time to invite your friends to play the game!
+
+    More info here: [http://store.steampowered.com/app/244850 http://store.steampowered.com/app/244850]
+  </Entry>
+  <Entry id="9" title="Features in update: 1.051" date="09/10/2014" version="01051000" public="true">
+    Placing asteroids in creative mode
+    Scrap metal item
+    Remote turret control
+  </Entry>
+  <Entry id="8" title="3d print your ships!" date="07/10/2014" version="01050000" public="true">
+    Now you can print a full color plastic 3d model of spaceships that you have designed in the game.
+
+    More info here:
+    [http://www.spaceengineersgame.com/space-engineers--binarynow-3d-print-deal.html http://www.spaceengineersgame.com/space-engineers--binarynow-3d-print-deal.html]
+  </Entry>
+  <Entry id="7" title="Features in update: 1.050" date="02/10/2014" version="01050000" public="true">
+    Blueprints
+    Players can now save their ship or station on a blueprint and paste it into their game. Blueprints can also be uploaded and shared on Steam Workshop. It's possible to use blueprint to create modular ship designs.
+  </Entry>
+  <Entry id="6" title="News" date="26/09/2014" version="01049000" public="true">
+    Like us on [https://www.facebook.com/SpaceEngineers Facebook], follow us on [https://twitter.com/SpaceEngineersG Twitter] so you will get notified on all our updates and news.
+  </Entry>
+  <Entry id="5" title="Features in update: 1.049" date="25/09/2014" version="01049000" public="true">
+    Recreated G-screen layout
+    Added antenna range visualization
+    Added object creation for player-made scenarios
+    Sensor is now able to detect voxels
+  </Entry>
+  <Entry id="4" title="Features in update: 1.048" date="18/09/2014" version="01048000" public="true">
+    Modding API
+    Reloadable missile launcher
+    Respawn ship cool down time
+    Moddable door open distance
+    Search in inventory by item name
+    Fighter cockpit mod
+  </Entry>
+  <Entry id="3" title="Features in update: 1.047" date="11/09/2014" version="01047000" public="true">
+    Remote ship control
+    Timer block
+    Gravity/Sensor field view
+    Relayed ore detector
+  </Entry>
+  <Entry id="2" title="Features in update: 1.046" date="04/09/2014" version="01046000" public="true">
+    Sensor block
+    Blinking light options
+    Warhead terminal controls
+    Multiplayer lag/slowdown compensation
+  </Entry>
+  <Entry title="Features in update: 1.045" date="28/8/2014" version="01045000" public="true" id="1">
+    Camera block
+    Workshop tags for mods
+    Better production building modding
+    'Arc Furnace' (refinery)
+    Easy start 2 redesign
+    Cargo ship redesigns
+    Add enemy identity
+  </Entry>
+</News>
